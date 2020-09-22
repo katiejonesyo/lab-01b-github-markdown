@@ -11,7 +11,6 @@
  You can _italicize_ characters or **bold** them.
  Header 1 | Header 2
 
-| hello | this   | is    | a     | table   |
+ |table  | this   | is    | a     | table   |
  |-------|--------|-------|-------|---------|
  | I     | think  | I     | did   |  it?    |
-
